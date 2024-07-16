@@ -1,0 +1,80 @@
+::::::::::::::::::::::::: Linux Commands ::::::::::::::::::::::::: 
+
+
+
+ls- List all the files and folder of a directory.
+
+cd(change directory)-One folder to another.
+
+pwd-print working directory.
+
+help-Show you basic commands and there use.
+
+man-Show you complete manual of that command or program.
+
+dir-Same as ls.
+
+mkdir-creates an directory(folder).
+
+cp-copy a file or folder.  (cp  file name  location.)
+
+mv-Move a folder or  file . (mv  file name  location.)
+
+rm-Remove(delete file or folder).
+
+rm -r -Remove recursively.
+
+sudo su -Grant root privileges.
+
+cat-shows content of a file.  (cat + filename)
+
+nano-Linux file editor(in commandline).
+
+gedit-File editor software. (gedit + Filename)
+
+chmod-Change directory permission.   (chomd -w to take write permission , chomd +w to give write permission) 
+
+ls -l -Show detail information of the file.
+
+ls -A -Show all the hidden files.
+
+./ - Execute shell file.
+
+bash - Execute shell program.
+
+apt-get update- Update packages list(URL's)
+
+apt-get upgrade- Update all installed software's.
+
+apt-get install- Install a particular software.
+
+top - show Linux processes.
+
+kill-Terminate processes manually.
+
+w- Who logged on and what they are doing.
+
+whoami- Display the username of the current user.
+
+touch- Create empty files.
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
